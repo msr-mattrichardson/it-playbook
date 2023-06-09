@@ -1,5 +1,12 @@
 # User Guide Template
 
+* Use plain language
+* Use visual references
+* Provide step-by-step instructions; assume nothing!
+* Provide a table of contents
+* Deduplicate! Link to other docs if the content is elsewhere
+* Collect Feedback / invite feedback
+
 ## Overview
 
 ### This document is informed by

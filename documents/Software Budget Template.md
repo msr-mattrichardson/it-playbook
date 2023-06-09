@@ -2,6 +2,7 @@
 
 * Application
 * Vendor Name
+* Product Name
 * Division
 * Department
 * Team
