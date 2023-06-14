@@ -1,4 +1,10 @@
-Standards for Prioritization
+# Standards for Prioritization of Work and Action
+
+# IMPACT AREA
+
+# EFFECT / RISK
+
+
 
 Highest - immediate/incident
 High - Imminent - within a short period of time 72 hours to 2 weeks

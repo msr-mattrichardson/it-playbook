@@ -24,7 +24,6 @@ _overview text_
 
 * Operational (outages, changes, disasters, incidents: security, operational, customer data loss)
 * Product components
-* Product components
 * Financial
 * Social
 * Environmental
