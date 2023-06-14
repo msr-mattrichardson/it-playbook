@@ -1,2 +1,5 @@
-Definition of Done Template
+# Definition of Done Template
 
+## FUNCTIONAL
+
+## NON-FUNCTIONAL
