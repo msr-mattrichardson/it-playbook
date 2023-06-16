@@ -15,7 +15,7 @@ _SPECIAL NOTE: Highly technical user groups are often skeptical of IT and Securi
 
 ## Notice of Single Change / Announcement of Change
 
-These common notices can be for any single event, from an app update, to a change in process or a newly available resource. 
+These common notices can be for any single event, from an app update, to a change in process or a newly available resource. Keep it short. Keep it specific. Keep it light.
 
 _**OUTLINE**_
 
@@ -48,29 +48,61 @@ You have to take these actions:
 * 2
 * 3
 
-If you run into problems, email ermamira@murmanmurders.com.
+If you run into problems, email ermamurman@mirrormurmurs.com.
 
 ## Rollouts / Changes to Key Systems
 
-Big efforts require
+Big efforts require more communication up front to give people time to plan, adapt and ask questions/voice concerns. The more we help people navigate the anxiety and potential disruption from change, the happier people will be!
 
 ### Suggested Cadence and Topic for Each Communication
 
 * Talk to Heads of Teams to Confirm Dates and Plan
-* First Notice - 
-* Second Notice, 1-2 weeks prior to change date
-* Third Notice, 1-2 days prior to change date
-* Fourth Notice, Change date
-* Fifth Notice, after change report
+* Send a notice as early as you can that is informational
+* Send a scond notice detailing the schedule and actions required
+* Send a reminder of actions required and the schedule, target actions (if you can) to folks that have not completed the action
+* Remind impacted folks the change is happening
+* Send all stakeholders an after action summary
 
-### Example
+#### Example Outline - Initial Notice, Send Well Ahead of Change
 
-## Information Sharing / Ad-hoc Update
+* <follow the Ad-hoc template>
 
-Keep it short. Keep it specific. Keep it light. 
+#### Example Outline - Second Notice, Sent 1-2 Weeks Ahead of Change
+
+* <follow the Ad-hoc template> 
+
+#### Example Outline - Third Notice, Sent Prior to Change
+
+* One paragraph reminder of the event
+* Where resources/support can be found
+
+#### Example Outline - Fourth Notice, Sent Day of Change
+
+* Notification the change is starting
+* How long to expect the change to take
+
+#### Example Outline - After Action Summary
+
+* Thank everyone
+* What happened
+* Why we did it
+* What went well
+* What we learned
+* Support information reminder
 
 ## Emergencies / Incidents
 
 Minimally Viable Information: Share the least amount of information necessary during an incident, but inform and provide specifics so people DON'T PANIC.
+
+* What is impacted
+* Who is impacted
+* What is the status
+* When can they expect restoration of service
+
+### Example 
+
+Our key printing system is currently offline in buildings 3, 4 and 5. This outage is impacting all team members attempting to print to devices in those buildings. We are currently investigating the cause, and do not yet have an estimated time to resolve.
+
+
 
 

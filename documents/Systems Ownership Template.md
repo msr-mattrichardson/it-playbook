@@ -1,5 +1,10 @@
 # Systems Ownership Template
 
+HOw to determine who owns what
+* Domain ownership
+
+## Data to track for software assets
+
 * App Name
 * Data Classification
 * Role-based access
