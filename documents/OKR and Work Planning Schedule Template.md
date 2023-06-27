@@ -5,3 +5,9 @@
 ## Quarterly OKRs & Goals/KPIS
 
 ## Monthly Work efforts
+
+AGENDA
+
+* Review our Quarter Goals/OKRs
+* Identify our strategic focus for the month
+* Review our current Work items
