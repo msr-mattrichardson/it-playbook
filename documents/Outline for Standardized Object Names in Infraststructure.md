@@ -22,3 +22,13 @@ Common groupings or names are used for
 * System Policy Objects
 * Cloud Infrastructure Components
 * Exception Groups
+
+### Sample Prefixes
+
+* svc-
+* <superadminnidentifier>
+* contractor-
+* project-
+* org-
+* team-
+* <blankForInformation>
