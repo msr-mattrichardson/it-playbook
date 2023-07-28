@@ -30,11 +30,15 @@ High level flow diagram
 
 text
 
-## Key Steps
+## Key Steps Outline
 
 |  Process Step #  |  Procedure  |  Reference Guide  |  Expected Time  |
 | ---------- | ---------- | ---------- | ---------- |
 |  text  |  text  |  text  |  text  |
+
+## Key Step 1 (if needed)
+
+## Key Step 1 (if needed)
 
 ## Change Log
 
