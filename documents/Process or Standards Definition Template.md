@@ -12,6 +12,11 @@ _Continuous Improvement Backlog: https://123.com_
 * a
 * b
 
+**How are stakeholders engaged?**
+* surveys
+* interviews
+* listening sessions
+
 High level flow diagram
 
 #### Affected Systems and Processes
