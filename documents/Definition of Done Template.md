@@ -48,7 +48,7 @@ Any fixing of an issue or a problem.
 
 ## Matrix for Definition of Done
 
-|	**Definition**	|	**Type**	|	_Project/Epic_	|	_Epic_	|	_Sprint_	|	_Big Change_	|	_Small Change_	|	_Tiny Change_	|	_Support Service_	|
+|	**Definition**	|	**Type**	|	_Project / Epic_	|  _Feature_  |	_Sprint_	|	_Major Change_	|	_Minor Change_	|	_Pre-Authoirzed Change_	|	_Support Service_	|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |	_A can do B_	|	Functional	|	Full Review	|	Full Review	|		|		|		|		|
 |	_B told C_	|	Functional	|	|	|		|		|		|		|
