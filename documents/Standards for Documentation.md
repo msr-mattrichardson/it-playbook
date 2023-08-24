@@ -31,7 +31,7 @@ Systems documentation can be challenging to maintina, so it is important to keep
 * Infrastructure as a Service / Cloud Service Providers
 * Code Repositories
 
-### Administrative Documentation
+### System Documentation
 
 Administrative documentation should be used actively as part of your continuous improvement cycles, troubleshooting efforts and change reviews.
 
