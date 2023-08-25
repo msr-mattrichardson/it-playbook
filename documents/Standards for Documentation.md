@@ -6,6 +6,15 @@ Knowledge is power, and with great power comes the great responsibility to ensur
 
 This document outlines some suggestions for a simple standard for documenting system and process information that remains actionable and usable throughout any stage of a company's operational maturity.
 
+**Suggested Hierarchy of Documentation**
+
+* Policies
+  * Processes
+    * Procedures
+      * System User Guides (may contain procedures)
+      * Guidelines
+* Standards (can be referenced anywhere)
+
 ### Intended Audience
 
 Anyone who uses a system or process, or is responsible for the succesful operation of those systems or processes.
