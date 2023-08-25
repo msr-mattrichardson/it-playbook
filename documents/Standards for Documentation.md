@@ -6,6 +6,15 @@ Knowledge is power, and with great power comes the great responsibility to ensur
 
 This document outlines some suggestions for a simple standard for documenting system and process information that remains actionable and usable throughout any stage of a company's operational maturity.
 
+**Suggested Hierarchy of Documentation**
+
+* Policies
+  * Processes
+    * Procedures
+      * System User Guides (may contain procedures)
+      * Guidelines
+* Standards (can be referenced anywhere)
+
 ### Intended Audience
 
 Anyone who uses a system or process, or is responsible for the succesful operation of those systems or processes.
@@ -14,7 +23,7 @@ Anyone who uses a system or process, or is responsible for the succesful operati
 
 Systems documentation can be challenging to maintina, so it is important to keep these documents simple and useful on a regular basis. These documents can contain information, procedures and other useful reference material. Typically, USer gduies (the official copy) live on a company knowledge center / intranet. Admin guides and technical Good systems documentation have a number of benefits.
 
-**BENEFITS OF GOOD PROCESS DOCUMENTATION**
+**BENEFITS OF GOOD SYSTEMS DOCUMENTATION**
 
 * Defines standard operating procedures to reduce the need for regular approvals (when a process is pre-approved for changes)
 * Sets the stage for good controls and compliance
@@ -31,7 +40,7 @@ Systems documentation can be challenging to maintina, so it is important to keep
 * Infrastructure as a Service / Cloud Service Providers
 * Code Repositories
 
-### Administrative Documentation
+### System Documentation
 
 Administrative documentation should be used actively as part of your continuous improvement cycles, troubleshooting efforts and change reviews.
 
@@ -63,7 +72,7 @@ Policies and standards set the foundation for your practices and governance. The
 
 ### Policy and Standards Documentation
 
-Administrative documentation should be used actively as part of your continuous improvement cycles, troubleshooting efforts and change reviews.
+Policy and standards documentation sets the defining parameters for what behaviors are enouraged and which behaviours are against the rules.
 
 |  Type of Document  |  Used For  |  Examples of this type of document  |  When to Update  |  Who is responsible for updating  |  Visibliity  |  Reference this document in  |
 |  -------  |  ----------  |  ------------  |  ------------  |  --------  |  --------  |  --------  |

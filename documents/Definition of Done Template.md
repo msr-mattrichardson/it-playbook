@@ -2,15 +2,9 @@
 
 ## Overview
 
-MATRIX for DONE
+Definitions of done are a set of paramters defined within an organization or a team that help work teams identify when a collection of work is "completed" or "done". Definine "done" can be highly useful for teams and organizations and can help reduce long-term technical debt by using a checklist that must be completed before moving on to the next work effort. 
 
-Done is not always "Done".
-
-Done is a rainbow!
-
-Requiring a Definition of Done generally means that work is to be completed, and either a change has occurred or a serivce has been delivered.
-
-I am overlaying ITL onto Scrum here.
+In this document, we are defining what done means, but not in singular terms. We will identify recommendations for identifying what "done" means depending on the type of work. WE will attempt to integrate Scrum and ITIL practices.
 
 ### Types of Changes
 
@@ -54,11 +48,8 @@ Any fixing of an issue or a problem.
 
 ## Matrix for Definition of Done
 
-|	**Definition**	|	**Type**	|	|	|	|	**SCOPE**	|	|	|	|
+|	**Definition**	|	**Type**	|	_Project / Epic_	|  _Feature_  |	_Sprint_	|	_Major Change_	|	_Minor Change_	|	_Pre-Authoirzed Change_	|	_Support Service_	|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|	**Definition**	|	**Type**	|	_Project/Epic_	|	_Epic_	|	_Sprint_	|	_Big Change_	|	_Small Change_	|	_Tiny Change_	|	_Support Service_	|
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|	**Definition**	|	**Type**	|	_Project_	|	_Epic_	|	_Sprint_	|	_Big Change_	|	_Small Change_	|	_Small Change_	|	_Support Service_	|
 |	_A can do B_	|	Functional	|	Full Review	|	Full Review	|		|		|		|		|
 |	_B told C_	|	Functional	|	|	|		|		|		|		|
 |	_There is a top to the coconut tree_	|	Non-Functional	|	|	|		|		|		|		|
