@@ -20,9 +20,40 @@ The purpose of Business Operations is to encourage effective management of knowl
 * Knowledge Management
 * Service Desk / Service Level Management
 
+### Information Technology / Business Technology
 
-### Information Technology
+The purpose of Information Technology is to enable technical and non-technical individuals to focus on their primary area of work by supporting, managing and administering technology and infrastructure that supports the business. A primarily technical team, IT must be able to navigate user requests and complex requests from technical teams including Security, Engineering and Business Applications. IT focuses on executing on tactical functions, indicated below, and also supporting technical teams with their focus areas as well.
+
+* Level 1 Technical Troubleshooting
+* Level 2 Administration of Systems “owned” by IT, Security
+* Infrastructure and Platform Management
+* Problem Management
+* Configuration Management
+* Asset Management
 
 ### Information Systems / Business Applications
 
+The purpose of Information Technology is to enable technical and non-technical individuals to focus on their primary area of work by supporting, managing and administering technology and infrastructure that supports the business. A primarily technical team, IT must be able to navigate user requests and complex requests from technical teams including Security, Engineering and Business Applications. IT focuses on executing on tactical functions, indicated below, and also supporting technical teams with their focus areas as well.
+
+* Business Analysis
+* Enterprise Business System Administration
+* Business Application Release and Deployment Management
+* Business Application Software Development and Management
+
 ### Security
+
+The purpose of Information Technology is, simply put, management of risk related to the governance, access to and use of information and technology. A strong security team will consider risks from multiple angles; not just from outside threats but also the risk that comes from excess security that does not support the business’ goals. Information Security is primarily a technical team that relies on IT and Business Operations for support, and collaborates heavily with other technical and non-technical teams. This team must balance technical know-how with a strong understanding of the business, our customers and our products. Security focuses on executing 
+
+* Governance of compliance to frameworks e.g. ISO and SOC 2
+* Information Security Management
+* Security Reviews
+* Risk Assessments
+* Monitoring and Event Management
+* Access Management
+* Incident Management
+* Risk Management
+
+
+## Opportunities
+
+### Who owns what?
